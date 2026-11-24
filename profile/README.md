@@ -24,7 +24,7 @@ Free, open source, no installer. Opens with `Insert`.
 
 <p align="center">
 <a href="https://install.rest/game/d0c81539-4f4d-494b-9d7d-d95a7f7039e6" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/b87131a1df3e3571047c2418ffeb7e38d207b84106665151f330efb21ec3f801/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" width="300" data-canonical-src="https://img.shields.io/badge/Download-black?style=for-the-badge&amp;logo=github" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Download-black?style=for-the-badge&amp;logo=github" width="300" alt="Download" style="max-width: 100%;">
 </a>
 </p>
 
